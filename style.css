@@ -1,1 +1,10 @@
-
+@import url("normalize.css");
+ 
+h1 {
+    color:white;
+    background: linear-gradient(to right, plum, pink);
+    width: 1050px;
+    height:1000px;
+    text-align: center;
+    font-size: 90px
+}
