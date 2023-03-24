@@ -4,29 +4,29 @@ body {
     background: radial-gradient(plum, pink, plum)
 }
 
-div {
+.topnav {
   position: relative;
-  background-color:rgb(252, 249, 249);
-  overflow: hidden;
-  height: 35;
+  background-color: #ffffff;
+  height: 50;
 }
 
-a {
-  float: left;
-  color: black;
+.topnav a {
+  color: #000000;
   text-align: center;
-  padding: 14px 16px;
+  padding: 5px 16px;
   text-decoration: none;
   font-size: 20px;
-  position: relative;
-  top: -18;
-  left: 540;
-  transform: none;
 }
 
-  h1 {
-    color: rgb(255, 255, 255);
+.topnav-centered a {
+  position: relative;
+  top: 10;
+  left: 510;
+}
+
+h1 {
   text-align: center;
-    transform: translate(0%, 90%) ;
-    font-size: 50px;
-  }
+  position: relative;
+  top: 100;
+}
+
