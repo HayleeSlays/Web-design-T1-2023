@@ -1,19 +1,32 @@
 @import url("normalize.css");
 
 body {
-    background: radial-gradient(plum, pink, plum);
+    background: radial-gradient(plum, pink, plum)
+}
+
+div {
+  position: relative;
+  background-color:rgb(252, 249, 249);
+  overflow: hidden;
+  height: 35;
+}
+
+a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  top: -18;
+  left: 530;
+  transform: none;
 }
 
   h1 {
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
-
+    transform: translate(-0%, 300%) ;
+    font-size: 50px;
   }
-
-p {
-    color: white;
-    font-size: 30px;
-    width: 1450px;
-    height: 150px;
-    text-align:Left;
-}
