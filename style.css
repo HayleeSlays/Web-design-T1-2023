@@ -1,7 +1,7 @@
 @import url("normalize.css");
 
 body {
-    background: radial-gradient(plum, pink, plum)
+    background: radial-gradient(rgb(213, 138, 248), rgb(253, 157, 219),rgb(213, 138, 248))
 }
 
 .topnav {
@@ -21,21 +21,34 @@ body {
 .topnav-centered a {
   position: relative;
   top: 10;
-  left: 510;
+  left: 540;
 }
 
-h1 {
-  text-align:center;
+.container {
+  width: 750px;
+  height: 300px;
+  margin: 100px auto;
+  background-color: rgb(60, 210, 255);
   position: relative;
-  top: 100;
-  background-color: rgb(82, 189, 247);
   border-radius: 25px;
-  width: 700;
-  height: 70;
-  left: 340;
-  top: 150;
-  font-size: 50px;
 }
+
+.container h1 {
+  margin: 0%;
+  font-size: 4em;
+  text-align: center;
+  position: relative;
+  top: 25%;
+}
+
+.container p {
+margin: 0%;
+font-size: 2em;
+text-align: center;
+position: relative;
+top: 35%;
+}
+
 
 
 
