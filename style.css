@@ -21,7 +21,7 @@ body {
 .topnav-centered a {
   position: relative;
   top: 10;
-  left: 540;
+  left: 530;
 }
 
 .container {
@@ -31,6 +31,7 @@ body {
   background-color: rgb(60, 210, 255);
   position: relative;
   border-radius: 25px;
+  top: 80;
 }
 
 .container h1 {
