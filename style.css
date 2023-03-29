@@ -19,10 +19,16 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+
 .topnav-centered a {
   position: relative;
-  top: 10;
-  left: 525;
+  text-align: center;
+  top: 12;
+  left: 530;
+}
+
+.topnav a:hover {
+  color: rgb(255, 255, 255);
 }
 
 .container {
@@ -56,6 +62,14 @@ color: white;
 font-family: 'Open Sans', sans-serif;
 }
 
-
-
-
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(224, 144, 240);
+  color: white;
+  text-align: center;
+  height: 80;
+  font-family: 'Open Sans', sans-serif
+}
