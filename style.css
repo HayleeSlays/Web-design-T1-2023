@@ -1,12 +1,12 @@
 @import url("normalize.css");
 
 body {
-    background: radial-gradient(rgb(253, 157, 219), rgb(212, 148, 242), rgb(253, 157, 219),rgb(213, 138, 248))
+    background: radial-gradient(rgb(248, 144, 212), rgb(215, 161, 240), rgb(253, 157, 219),rgb(213, 138, 248))
 }
 
 .topnav {
   position: relative;
-  background-color: rgb(211, 119, 229);
+  background-color: rgb(224, 144, 240);
   height: 50;
 }
 
@@ -43,12 +43,12 @@ body {
   top: 27%;
   color: white;
   font-family: 'Julius Sans One', sans-serif;
-  font-weight: 300px;
+  font-weight: normal;
 }
 
 .container p {
 margin: 0%;
-font-size: 2em;
+font-size: 20px;
 text-align: center;
 position: relative;
 top: 30%;
