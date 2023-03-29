@@ -6,7 +6,7 @@ body {
 
 .topnav {
   position: relative;
-  background-color: rgb(235, 154, 248) ;
+  background-color: rgb(215, 141, 254) ;
   height: 50;
 }
 
@@ -67,9 +67,10 @@ font-family: 'Open Sans', sans-serif;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:rgb(235, 154, 248) ;
+  background-color:rgb(215, 141, 254) ;
   color: white;
   text-align: center;
   height: 80;
-  font-family: 'Open Sans', sans-serif
+  font-family: 'Open Sans', sans-serif;
+  
 }
