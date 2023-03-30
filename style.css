@@ -1,7 +1,7 @@
 @import url("normalize.css");
 
 body {
-    background: radial-gradient(rgb(255, 167, 224), rgb(213, 148, 243), rgb(253, 157, 219),rgb(212, 136, 247))
+    background: radial-gradient(rgb(254, 184, 230), rgb(213, 148, 243), rgb(252, 165, 221),rgb(217, 140, 252))
 }
 
 .topnav {
@@ -63,13 +63,10 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100%;
-  background-color:rgb(215, 141, 254) ;
-  color: white;
-  text-align: center;
-  height: 80;
-  font-family: 'Open Sans', sans-serif;
-  }
+  height: 100px;
+  background-color: rgb(215, 141, 254);
+  position: relative;
+  top: 100;
+}
+
