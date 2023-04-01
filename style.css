@@ -70,3 +70,10 @@ font-family: 'Open Sans', sans-serif;
   top: 100;
 }
 
+.footer p {
+text-align: center;
+position: relative;
+font-size: 18px;
+color: white;
+top: 40%;
+}
