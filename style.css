@@ -24,7 +24,7 @@ body {
   position: relative;
   text-align: center;
   top: 12;
-  left: 526;
+  left: 520;
 }
 
 .topnav a:hover {
@@ -82,6 +82,6 @@ top: 40%;
   width: 450;
   height: auto;
   position: fixed;
-  left: -133;
-  top: -207;
+  left: -150;
+  top: -330;
 }
