@@ -1,7 +1,7 @@
 @import url("normalize.css");
 
 body {
-    background: radial-gradient(rgb(254, 184, 230), rgb(213, 148, 243), rgb(252, 165, 221),rgb(217, 140, 252))
+    background: radial-gradient(rgb(251, 191, 230), rgb(223, 174, 245), rgb(245, 169, 218),rgb(225, 161, 255))
 }
 
 .topnav {
@@ -35,7 +35,7 @@ body {
   width: 750px;
   height: 300px;
   margin: 100px auto;
-  background-color: rgb(60, 210, 255);
+  background-color: rgb(56, 206, 252);
   position: relative;
   border-radius: 25px;
   top: 80;
